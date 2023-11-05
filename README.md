@@ -3,10 +3,10 @@
 # Project Aim :
 The "Histopathological-Cancer-Analysis" project was conceived as an advanced approach to automate the classification of various cancerous tissues using histopathological images. The purpose of this project is to design and implement a Generative Adversarial Network (GAN) integrated with an encoder for feature extraction to efficiently classify images into one of five specific tissue classes. By automating this process, the model aims to aid in the rapid and accurate diagnosis of cancerous tissues, potentially providing a valuable tool for pathologists and contributing to earlier and more effective cancer treatment strategies.
 
-#Importance :
+# Importance :
 This project has significant implications in the field of medical imaging and cancer diagnosis. Histopathological image analysis is a fundamental step in diagnosing and understanding cancerous tissues, but it requires considerable expertise and can be time-consuming. Automating this process with a high degree of accuracy can greatly improve diagnostic workflows, reduce human error, and ensure consistency in analysis.
 
-#Data Source :
+# Data Source :
 The dataset used in the "Histopathological-Cancer-Analysis" project is publicly available on Kaggle, under the title "Lung and Colon Cancer Histopathological Images". It can be accessed through the following link: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images.
 
 This dataset comprises a total of 25,000 high-resolution (768 x 768 pixels) histopathological images in JPEG format, with equal representation across five different classes to maintain a balanced dataset:
